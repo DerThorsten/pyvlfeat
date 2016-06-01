@@ -8,7 +8,7 @@ if you have success on other platforms so I can list them as supported.
 
 The C++ wrappers require Boost.Python to be installed:
 
-  $ sudo apt-get install boost-python1.35-dev
+  $ sudo apt-get install boost-python-dev
 
 pyvlfeat uses distutils, so to build the library:
 
